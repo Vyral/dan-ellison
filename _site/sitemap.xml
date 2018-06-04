@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>localhost:4000/this-is-a-test-post-copy-2.html</loc>
-<lastmod>2018-05-10T00:00:00-05:00</lastmod>
+<loc>localhost:4000/5-things-every-homebuyer-needs-to-know.html</loc>
+<lastmod>2018-03-06T11:27:00-06:00</lastmod>
 </url>
 <url>
-<loc>localhost:4000/a-fox-in-space.html</loc>
-<lastmod>2018-05-07T00:00:00-05:00</lastmod>
+<loc>localhost:4000/what-happens-during-inspection.html</loc>
+<lastmod>2017-11-14T10:56:00-06:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/3-key-tips-to-selling-your-home-in-fall.html</loc>
+<lastmod>2017-10-05T11:45:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/how-can-you-find-home-in-todays-market.html</loc>
+<lastmod>2017-08-23T12:33:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/how-to-buy-and-sell-simultaneously.html</loc>
+<lastmod>2017-08-03T14:30:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/tips-for-winning-multiple-offer.html</loc>
+<lastmod>2017-06-05T11:40:00-05:00</lastmod>
 </url>
 <url>
 <loc>localhost:4000/404.html</loc>
