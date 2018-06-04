@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Sacramento Real Estate Video Blog with Dan Ellison
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -7,41 +7,43 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Dan Ellison
   title:
   license_number:
   about_markdown: |
+    When it comes to buying or selling a home the key element is to have a strong agent to make sure you are represented properly. You deserve the best and my team and I are here to assist in making sure you get the best outcome in the sale or purchase of your home.
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    With me by your side you can expect to get a skilled negotiator who is available when you have questions and who is resourceful with market knowledge and connections in the industry.
+  market: Sacramento
+  brand: The Dan Ellison Group
+  brokerage: Keller Williams
+  address: 2277 Fair Oaks Blvd. Ste 195<br>Sacramento, CA 95825
+  phone: 916-252-6976
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Dan@TeamEllison.com
+  url: http://www.HomesInGreaterSacramento.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.homesingreatersacramento.com/homevalue/value
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.homesingreatersacramento.com/search
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.homesingreatersacramento.com/homevalue/value
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.homesingreatersacramento.com/search
 
 lender:
   show_section: false
@@ -57,17 +59,17 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/danellisonteam
+  linkedin_url: https://www.linkedin.com/in/danellison
+  gplus_url: https://plus.google.com/b/105288569752503627385/+Teamellisonsold/about
+  youtube_url: https://www.youtube.com/channel/UC4BtEGCTrrp5aBDXzjLPfTA
+  twitter_url: https://twitter.com/danellisonteam
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
+  zillow_url: http://www.zillow.com/profile/danellison/
+  trulia_url: http://www.trulia.com/profile/dan-ellison-agent-sacramento-ca-zgj14jlv/overview
   yelp_url:
-  podcast_url:
+  podcast_url: https://itunes.apple.com/us/podcast/the-dan-ellison-group-real-estate-video-blog/id1229250882?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
@@ -100,7 +102,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: black
 
 buttons:
   button_radius_number: 0
