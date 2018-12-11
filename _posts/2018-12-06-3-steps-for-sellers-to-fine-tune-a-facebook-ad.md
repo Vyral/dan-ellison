@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Steps for Sellers to Fine-Tune a Facebook Ad
-date: 2018-12-06 16:26:54
+date: 2018-12-06 16:26:00
 tags:
   - Home Seller Tips
   - Real Estate
@@ -19,7 +19,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 64dSuUVAFUM
+youtube_code: qCmcLl6OgpI
 ---
 
 {% include youtube.html %}
@@ -35,5 +35,3 @@ Today I’m going to cover Facebook advertising and how it can be an effective m
 **3. Use ad spend to your advantage.** Facebook allows you to reach beyond just the target demographics of your area or community—you can control how much you’re willing to spend, and this gives your listing the opportunity to reach a broader swath of buyers from outside areas.
 
 Lastly, Facebook advertising can also be beneficial for buyers. Our team would love to be a resource for you, as a buyer, in giving you additional information on a property you’ve taken an interest in and have maybe seen on Facebook. Please give us a call!
-
-&nbsp;
