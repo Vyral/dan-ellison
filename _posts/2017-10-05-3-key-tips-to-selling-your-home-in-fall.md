@@ -22,8 +22,8 @@ blogger_orig_url: http://danellisonteam.blogspot.com/2017/10/3-key-tips-to-selli
 Keep your house looking neat and seasonal to make an impression on a potential buyer.
 
 <div class="post-cta">
-Thinking of selling? <a href="http://www.homesingreatersacramento.com/homevalue" target="_blank">Get a free home valuation</a><br>
-Thinking of buying a home? <a href="http://www.homesingreatersacramento.com/search" target="_blank">Search all homes for sale on the MLS</a>
+Thinking of selling? <a href="https://www.searchallcahomes.com/sellers/free-market-analysis/" target="_blank">Get a free home valuation</a><br>
+Thinking of buying a home? <a href="https://www.searchallcahomes.com/" target="_blank">Search all homes for sale on the MLS</a>
 </div>
 
 Today, let’s talk about three key tips to selling your home in the fall.
