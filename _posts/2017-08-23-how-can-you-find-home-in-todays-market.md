@@ -22,8 +22,8 @@ blogger_orig_url: http://danellisonteam.blogspot.com/2017/08/how-can-you-find-ho
 If you’ve been in the market for a house, it’s important to know where to look. Today, I’ve got three strategies that we use to help our clients find their next home.
 
 <div class="post-cta">
-Thinking of selling? <a href="http://www.homesingreatersacramento.com/homevalue" target="_blank">Get a free home valuation</a><br>
-Thinking of buying a home? <a href="http://www.homesingreatersacramento.com/search" target="_blank">Search all homes for sale on the MLS</a>
+Thinking of selling? <a href="https://www.searchallcahomes.com/sellers/free-market-analysis/" target="_blank">Get a free home valuation</a><br>
+Thinking of buying a home? <a href="https://www.searchallcahomes.com/" target="_blank">Search all homes for sale on the MLS</a>
 </div>
 
 In this low-inventory market, how can you find a home? Today, I’ve got three strategies that will help you achieve just that. These strategies are ones we use personally to help our clients. In fact, this year we’ve helped three different buyers find homes that hadn’t even hit the market.
