@@ -22,8 +22,8 @@ blogger_orig_url: http://danellisonteam.blogspot.com/2018/03/5-things-every-home
 If you want to buy a new construction home, there are five important things that you need to know.
 
 <div class="post-cta">
-Thinking of selling? <a href="http://www.homesingreatersacramento.com/homevalue" target="_blank">Get a free home valuation</a><br>
-Thinking of buying a home? <a href="http://www.homesingreatersacramento.com/search" target="_blank">Search all homes for sale on the MLS</a>
+Thinking of selling? <a href="https://www.searchallcahomes.com/sellers/free-market-analysis/" target="_blank">Get a free home valuation</a><br>
+Thinking of buying a home? <a href="https://www.searchallcahomes.com/" target="_blank">Search all homes for sale on the MLS</a>
 </div>
 
 Buying a new construction property is very different from buying a resale property. There are five things that every homebuyer needs to know about new construction:
