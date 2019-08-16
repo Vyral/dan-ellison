@@ -22,8 +22,8 @@ blogger_orig_url: http://danellisonteam.blogspot.com/2017/08/how-to-buy-and-sell
 There are a few different ways you can buy and sell at the same time. Here are the strategies that work best in our current market.
 
 <div class="post-cta">
-Thinking of selling? <a href="http://www.homesingreatersacramento.com/homevalue" target="_blank">Get a free home valuation</a><br>
-Thinking of buying a home? <a href="http://www.homesingreatersacramento.com/search" target="_blank">Search all homes for sale on the MLS</a>
+Thinking of selling? <a href="https://www.searchallcahomes.com/sellers/free-market-analysis/" target="_blank">Get a free home valuation</a><br>
+Thinking of buying a home? <a href="https://www.searchallcahomes.com/" target="_blank">Search all homes for sale on the MLS</a>
 </div>
 
 This is a really hot topic in our market because of our low inventory. With so few options to choose from, sellers know that their home will sell quickly, but they don’t know how quickly they will be able to buy. Nobody wants to end up without a place to live. **There are two strategies that we have found to be the best options for tackling this problem.**
