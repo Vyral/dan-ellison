@@ -22,8 +22,8 @@ blogger_orig_url: http://danellisonteam.blogspot.com/2017/11/what-happens-during
 What is the home inspection contingency, and why is it so important? I’ll go over four key points for you today.
 
 <div class="post-cta">
-Thinking of selling? <a href="http://www.homesingreatersacramento.com/homevalue" target="_blank">Get a free home valuation</a><br>
-Thinking of buying a home? <a href="http://www.homesingreatersacramento.com/search" target="_blank">Search all homes for sale on the MLS</a>
+Thinking of selling? <a href="https://www.searchallcahomes.com/sellers/free-market-analysis/" target="_blank">Get a free home valuation</a><br>
+Thinking of buying a home? <a href="https://www.searchallcahomes.com/" target="_blank">Search all homes for sale on the MLS</a>
 </div>
 
 The inspection contingency period is by far the most important contingency when buying a home. There are four key points that you need to know about in order to understand this process a little better.
