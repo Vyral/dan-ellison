@@ -22,8 +22,8 @@ blogger_orig_url: http://danellisonteam.blogspot.com/2017/06/tips-for-winning-mu
 If you find yourself in a multiple offer situation as a buyer, there are a few ways you can ensure that your offer comes out on top.
 
 <div class="post-cta">
-Thinking of selling? <a href="http://www.homesingreatersacramento.com/homevalue" target="_blank">Get a free home valuation</a><br>
-Thinking of buying a home? <a href="http://www.homesingreatersacramento.com/search" target="_blank">Search all homes for sale on the MLS</a>
+Thinking of selling? <a href="https://www.searchallcahomes.com/sellers/free-market-analysis/" target="_blank">Get a free home valuation</a><br>
+Thinking of buying a home? <a href="https://www.searchallcahomes.com/" target="_blank">Search all homes for sale on the MLS</a>
 </div>
 
 If you’re on the hunt for a home in this market, it can be tough. There isn’t a lot of inventory available and there is a lot of competition from other buyers in many price points. How can you make sure your offer percolates to the top in a multiple offer situation?
