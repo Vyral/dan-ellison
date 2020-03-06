@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/ellison-youtube-1.jpg
 youtube_code: v-XxKtDcx7U
 ---
 
-{% include youtube.html %}To position your home to get top dollar, you must present it in its very best light once it hits the market.&nbsp;
+{% include youtube.html %}<center>To position your home to get top dollar, you must present it in its very best light once it hits the market.&nbsp;</center>
 
 As I always say, preparing your home for sale is almost like being on a first date: You only get one chance to impress.&nbsp;
 
